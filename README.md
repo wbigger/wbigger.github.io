@@ -2,8 +2,6 @@
 
 Here you can find my school projects and open-source courses about computer science and IT. You are welcome to study, modify and share these works!
 
-All courses are created with [mdbook](https://github.com/rust-lang-nursery/mdBook).
-
 # Organizations and projects
 
 ## School's official page
@@ -16,6 +14,9 @@ Here the official organization page of my school: [IIS G. Marconi Civitavecchia]
 - 2Binf: [Cappuccetto Rosso](https://github.com/marconicivitavecchia-story)
 
 # Courses
+
+All courses are created with [mdbook](https://github.com/rust-lang-nursery/mdBook).
+
 ## Computer Systems and Networking
 Language: Italian
 
