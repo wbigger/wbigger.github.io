@@ -17,10 +17,21 @@ Here the official organization page of my school: [IIS G. Marconi Civitavecchia]
 
 All courses are created with [mdbook](https://github.com/rust-lang-nursery/mdBook).
 
+## Programming
+Language: Italian
+
+Subject: "Tecnologie informatiche", technical institute, computer science and telecommunications, 2nd year
+
+Link: [https://wbigger.github.io/book-programming/](https://wbigger.github.io/book-programming/)
+
+Content: start learning to code with Lightbot and Processing 3D. We will talk about problems, constraints, design, user stories, documentation, variables, flow control, objects and classes, 3D objects.  
+
+Future works: JavaScript walkthrough, local and on-premises deployment.
+
 ## Computer Systems and Networking
 Language: Italian
 
-Subject: "Sistemi e Reti", high school, 3rd year
+Subject: "Sistemi e Reti", technical institute, computer science and telecommunications, 3rd year
 
 Link: [https://wbigger.github.io/book-arch-cpu/](https://wbigger.github.io/book-arch-cpu/)
 
@@ -31,7 +42,7 @@ Future works: how we can connect them together? with a special attention to secu
 ## Web design
 Language: Italian
 
-Subject: "TPSI", high school, 3rd-4th-5th years
+Subject: "TPSI", technical institute, computer science and telecommunications, 3rd-4th-5th years
 
 Link: [https://wbigger.github.io/book-web-app/](https://wbigger.github.io/book-web-app/)
 
@@ -45,7 +56,7 @@ Related courses: [HTML5](#html5)
 ## HTML5
 Language: Italian
 
-Subject: "TPSI", high school, 3rd-4th-5th years
+Subject: "TPSI", technical institute, computer science and telecommunications, 3rd-4th-5th years
 
 Link: [https://wbigger.github.io/book-html5/](https://wbigger.github.io/book-html5/)
 
@@ -54,4 +65,3 @@ Content: how to implement and deploy effectively a web page? starting from the v
 Future works: JavaScript walkthrough, local and on-premises deployment.
 
 Related courses: [Web Design](#web-design)
-
