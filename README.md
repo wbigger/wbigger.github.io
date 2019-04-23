@@ -1,9 +1,21 @@
-# Welcome to wbigger's courses
+# Welcome to wbigger's page!
 
-Here you can find my open-source courses about computer science and IT. You are welcome to study, modify and share these works!
+Here you can find my school projects and open-source courses about computer science and IT. You are welcome to study, modify and share these works!
 
 All courses are created with [mdbook](https://github.com/rust-lang-nursery/mdBook).
 
+# Organizations and projects
+
+## School's official page
+Here the official organization page of my school: [IIS G. Marconi Civitavecchia](https://github.com/marconicivitavecchia). This organization is also connected with GitHub educate.
+
+## 2018-2019 classes
+- 5Ainf: [Project X](https://github.com/marconicivitavecchia-bar)
+- 5Binf: [Bar](https://github.com/marconicivitavecchia-projectx)
+- 4Binf: [Alternanza](https://github.com/marconicivitavecchia-alternanza)
+- 2Binf: [Cappuccetto Rosso](https://github.com/marconicivitavecchia-story)
+
+# Courses
 ## Computer Systems and Networking
 Language: Italian
 
