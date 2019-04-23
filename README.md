@@ -20,7 +20,7 @@ Content: software development history, Agile and Scrum, rules for a good brainst
 
 Future works: personas, information architecture, wireframe and visual.
 
-Related courses: [HTML5](https://github.com/wbigger/wbigger/blob/master/README.md#html5)
+Related courses: [HTML5](#html5)
 
 
 ## HTML5
@@ -32,5 +32,5 @@ Content: how to implement and deploy effectively a web page? starting from the v
 
 Future works: JavaScript walkthrough, local and on-premises deployment.
 
-Related courses: [Web Design](https://github.com/wbigger/wbigger/blob/master/README.md#web-design)
+Related courses: [Web Design](#web-design)
 
