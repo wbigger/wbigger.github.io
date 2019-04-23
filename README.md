@@ -1,8 +1,8 @@
-## Welcome to wbigger's courses
+# Welcome to wbigger's courses
 
 Here you can find my open-source courses about computer science and IT. You are welcome to study, modify and share these works!
 
-# Computer Systems and Networking
+## Computer Systems and Networking
 Language: Italian
 Subject: "Sistemi e Reti", high school, 3rd year
 Link: [https://wbigger.github.io/book-arch-cpu/](https://wbigger.github.io/book-arch-cpu/)
@@ -11,13 +11,19 @@ Content: how is a computer made? this course covers the basics of CPU architectu
 
 Future works: how we can connect them together? with a special attention to security and hacking.
 
-# Web design
+## Web design
 Language: Italian
 Subject: "TPSI", high school, 3rd-4th-5th years
 Link: [https://wbigger.github.io/book-web-app/](https://wbigger.github.io/book-web-app/)
 
+Content: software development history, Agile and Scrum, rules for a good brainstorming and project brief.
 
-# HTML5
+Future works: personas, information architecture, wireframe and visual.
+
+Related courses: [HTML5](https://github.com/wbigger/wbigger/blob/master/README.md#html5)
+
+
+## HTML5
 Language: Italian
 Subject: "TPSI", high school, 3rd-4th-5th years
 Link: [https://wbigger.github.io/book-html5/](https://wbigger.github.io/book-html5/)
@@ -26,5 +32,5 @@ Content: how to implement and deploy effectively a web page? starting from the v
 
 Future works: JavaScript walkthrough, local and on-premises deployment.
 
-Related courses: [Web Design](#web-design)
+Related courses: [Web Design](https://github.com/wbigger/wbigger/blob/master/README.md#web-design)
 
