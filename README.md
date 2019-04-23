@@ -2,6 +2,8 @@
 
 Here you can find my open-source courses about computer science and IT. You are welcome to study, modify and share these works!
 
+All courses are created with [mdbook](https://github.com/rust-lang-nursery/mdBook).
+
 ## Computer Systems and Networking
 Language: Italian
 
