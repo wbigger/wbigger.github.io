@@ -35,7 +35,7 @@ Link: [https://wbigger.github.io/book-arch-cpu/](https://wbigger.github.io/book-
 Content: how is a computer made? this course covers the basics of CPU architecture and networking, using Raspberry PI, mobile phones, C language, terminal, gcc and assembly.
 
 ### Forth year
-Link: [https://github.com/wbigger/book-4y-networks](https://github.com/wbigger/book-4y-networks)
+Link: [https://wbigger.github.io/book-4y-networks/](https://wbigger.github.io/book-4y-networks/)
 
 Content: ISO/OSI level 2 and 3.
 
