@@ -4,12 +4,12 @@ Here you can find my school projects and open-source courses about computer scie
 
 Primary target of these courses are students of Italian technical institute, computer science and telecommunications orientation; however, I hope they can be useful also for all the CS/IT students.
 
-# Organizations and projects
-
 ## School's official page
 Here the official organization page of my school: [IIS G. Marconi Civitavecchia](https://github.com/marconicivitavecchia). This organization is also connected with GitHub educate.
 
+## Student projects
 A list of projects developed with the following courses are listed [here](./orgs.md).
+
 # Courses
 
 All courses are created with [mdbook](https://github.com/rust-lang-nursery/mdBook).
