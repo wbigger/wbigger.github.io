@@ -9,12 +9,7 @@ Primary target of these courses are students of Italian technical institute, com
 ## School's official page
 Here the official organization page of my school: [IIS G. Marconi Civitavecchia](https://github.com/marconicivitavecchia). This organization is also connected with GitHub educate.
 
-## 2018-2019 classes
-- 5Ainf: [Project X](https://github.com/marconicivitavecchia-bar)
-- 5Binf: [Bar](https://github.com/marconicivitavecchia-projectx)
-- 4Binf: [Alternanza](https://github.com/marconicivitavecchia-alternanza)
-- 2Binf: [Cappuccetto Rosso](https://github.com/marconicivitavecchia-story)
-
+A list of projects developed with the following courses are listed [here](./orgs.md).
 # Courses
 
 All courses are created with [mdbook](https://github.com/rust-lang-nursery/mdBook).
