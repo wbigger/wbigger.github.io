@@ -42,7 +42,7 @@ Content: ISO/OSI level 2 and 3.
 ## Subject: Technologies and design for computer systems
 ### Third year
 
-Link: [https://github.com/wbigger/book-tpsi-3y](https://github.com/wbigger/book-tpsi-3y)
+Link: [https://wbigger.github.io/book-tpsi-3y/](https://wbigger.github.io/book-tpsi-3y/)
 
 Content: operating systems, Raspberry PI, MPU vs CPU, Kernel, GNU utils, Scheduler, Memory
 
