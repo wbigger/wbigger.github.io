@@ -28,58 +28,58 @@ Not all the above feature are currently implemented, but work is in progress and
 
 # Courses
 
-Below is a list of the material I wrote for my courses. I hope they can help other teachers around the world.
+Below is a list of the material I wrote for my courses. I hope they can help other teachers.
 
-All courses are created with [mdbook](https://github.com/rust-lang-nursery/mdBook).
+Please consider that they are all in Italian language.
 
-## Subject: Computer Science
+Courses are created with [mdbook](https://github.com/rust-lang-nursery/mdBook), a nice static site generator written in Rust (a language that i really love ❤️).
+
+## Computer Science
 ### Second year
 Language: Italian
 
 Link: [https://wbigger.github.io/book-programming/](https://wbigger.github.io/book-programming/)
 
-Content: start learning to code with Lightbot and Processing 3D. We will talk about problems, constraints, design, user stories, documentation, variables, flow control, objects and classes, 3D objects.  
+Start learning to code with Lightbot and Processing 3D. We will talk about problems, constraints, design, user stories, documentation, variables, flow control, objects and classes, 3D objects.  
 
 ### Third year
-Work in progress
-https://wbigger.github.io/book-cs-3y/
+Link: [https://wbigger.github.io/book-cs-3y/](https://wbigger.github.io/book-cs-3y/)
 
-## Subject: Computer Systems and Networking
-Language: Italian
+A comparative introduction to software programming using Python and C++. A slightly philosophical approach is used to understand types and classes. The use case for this courses is a simple web app, using basic HTML5.
+
+## Computer Systems and Networking
 
 ### Third year
 Link: [https://wbigger.github.io/book-arch-cpu/](https://wbigger.github.io/book-arch-cpu/)
 
-Content: how is a computer made? this course covers the basics of CPU architecture and networking, using Raspberry PI, mobile phones, C language, terminal, gcc and assembly.
+How is a computer made? this course covers the basics of CPU architecture and networking, using Raspberry PI, mobile phones, C language, terminal, gcc and assembly.
 
 ### Forth year
 Link: [https://wbigger.github.io/book-4y-networks/](https://wbigger.github.io/book-4y-networks/)
 
-Content: ISO/OSI level 2 and 3.
+Here we talk about ISO/OSI level 2 and 3. We try to understand how the current networks work using a historical approach.
 
-## Subject: Technologies and design for computer systems
+## Technologies and design for computer systems
 ### Third year
 
 Link: [https://wbigger.github.io/book-tpsi-3y/](https://wbigger.github.io/book-tpsi-3y/)
 
-Content: operating systems, Raspberry PI, MPU vs CPU, Kernel, GNU utils, Scheduler, Memory
+Operating systems, Raspberry PI, MPU vs CPU, Kernel, GNU utils, Scheduler, Memory
 
 ### Third - Forth year
 #### Web design
-Language: Italian
 
 Link: [https://wbigger.github.io/book-web-app/](https://wbigger.github.io/book-web-app/)
 
-Content: software development history, Agile and Scrum, rules for a good brainstorming and project brief.
+Software development history, Agile and Scrum, rules for a good brainstorming and project brief.
 
 Related courses: [HTML5](#html5)
 
 ### Forth - Fifth year
 #### HTML5
-Language: Italian
 
 Link: [https://wbigger.github.io/book-html5/](https://wbigger.github.io/book-html5/)
 
-Content: how to implement and deploy effectively a web page? starting from the visual artifact of our web page, we go through HTML cutting and implementation, CSS styling and creating and querying a REST API with JavaScript. Finally, we deploy our web page on the cloud with AWS services. Special attention is paid to the history of the web, to better understand the present trends.
+How to implement and deploy effectively a web page? starting from the visual artifact of our web page, we go through HTML cutting and implementation, CSS styling and creating and querying a REST API with JavaScript. Finally, we deploy our web page on the cloud with AWS services. Special attention is paid to the history of the web, to better understand the present trends.
 
 Related courses: [Web Design](#web-design)
