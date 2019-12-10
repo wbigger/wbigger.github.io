@@ -28,6 +28,8 @@ Not all the above feature are currently implemented, but work is in progress and
 
 # Courses
 
+Below is a list of the material I wrote for my courses. I hope they can help other teachers around the world.
+
 All courses are created with [mdbook](https://github.com/rust-lang-nursery/mdBook).
 
 ## Subject: Computer Science
