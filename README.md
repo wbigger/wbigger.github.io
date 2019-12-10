@@ -30,7 +30,7 @@ Not all the above feature are currently implemented, but work is in progress and
 
 Below is a list of the material I wrote for my courses. I hope they can help other teachers.
 
-Please consider that they are all in Italian language.
+Please consider that all courses are in Italian language.
 
 Courses are created with [mdbook](https://github.com/rust-lang-nursery/mdBook), a nice static site generator written in Rust (a language that i really love ❤️).
 
