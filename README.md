@@ -1,14 +1,19 @@
-# Welcome to wbigger's page!
-
 Here you can find my school projects and open-source courses about computer science and IT. You are welcome to study, modify and share these works!
 
 Primary target of these courses are students of Italian technical institute, computer science and telecommunications orientation; however, I hope they can be useful also for all the CS/IT students.
 
-## School's official page
-Here the official organization page of my school: [IIS G. Marconi Civitavecchia](https://github.com/marconicivitavecchia). This organization is also connected with GitHub educate.
+## School's official page on GitHub
+Here the official organization page of my school on GitHub: [IIS G. Marconi Civitavecchia](https://github.com/marconicivitavecchia). This organization is also connected with GitHub educate.
+
+## Research projects
+As teacher, I am following some research project with students and other teachers of my school:
+- [Easy Talk](https://github.com/marconicivitavecchia/easy-talk), a technology to facilitate learning of social skills to help people with communication difficulties. Uses MS Azure Face API, Angular and Node.js.
+- [Domotics & VR](https://github.com/marconicivitavecchia/m4m-domotics), a prototype of a real home automation system, including electrical system, electronics, firmware, web server and a 3D environment that communicate in real time with the real environment. We used Node-RED, MQTT, Unity, Blender, Oculus Rift, Sonoff, ACME CM3. 
 
 ## Student projects
 A list of projects developed with the following courses are listed [here](./orgs.md).
+
+
 
 # Courses
 
@@ -24,7 +29,7 @@ Content: start learning to code with Lightbot and Processing 3D. We will talk ab
 
 ### Third year
 Work in progress
-https://wbigger.github.io/book-tpsi-3y/
+https://wbigger.github.io/book-cs-3y/
 
 ## Subject: Computer Systems and Networking
 Language: Italian
