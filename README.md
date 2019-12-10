@@ -13,6 +13,17 @@ As teacher, I am following some research project with students and other teacher
 ## Student projects
 A list of projects developed with the following courses are listed [here](./orgs.md).
 
+## Teacher Test Suite
+To support the student assessments, I created a [test suite](https://github.com/wbigger/teacher-test-suite) with the following objectives:
+- support multiple choice questions and open answers questions with evaluation grid
+- propose tips to create good multiple answers
+- easy to print, to match the needs of the Italian school
+- create a different test for each student of the class, according to the student needs
+- support specific learning disabilities, removing questions according to student disability or extending the maximum time
+- create a profile of the student with strengths and weaknesses, to help the teacher developing effective strategies both for students and for the whole class
+- provide statistics both for single questions and students, with tips for the teacher to improve the future classwork
+
+Not all the above feature are currently implemented, but work is in progress and continuously updated.
 
 
 # Courses
