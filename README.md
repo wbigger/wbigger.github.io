@@ -78,7 +78,7 @@ How to implement and deploy effectively a web page? starting from the visual art
 
 Related courses: [Web Design](#web-design)
 
-#### Web design
+### Web design
 
 Link: [https://wbigger.github.io/book-web-app/](https://wbigger.github.io/book-web-app/)
 
