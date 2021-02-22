@@ -83,3 +83,9 @@ Related courses: [Web Design](#web-design)
 Link: [https://wbigger.github.io/book-web-app/](https://wbigger.github.io/book-web-app/)
 
 Software development history, Agile and Scrum, rules for a good brainstorming and project brief.
+
+### 2020-21 
+Link: [https://wbigger.github.io/2021-stackedit/](https://wbigger.github.io/2021-stackedit/)
+
+Here the courses for the year 2020-21. I moved to StackEdit + GitHub Pages for these courses.
+
