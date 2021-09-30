@@ -28,49 +28,52 @@ Not all the above feature are currently implemented, but work is in progress and
 
 # Courses
 
-Below is a list of the material I wrote for my courses. I hope they can help other teachers.
+Below is a list of the material I wrote for my courses. I hope they can help other teachers. Feel free to use them as you want for what I created, and I specified attribution for images and other stuff that are not created by me.
+
+There is a different version per year of the same subject. This is because every year, every class is different, and the material wrote one year ago for a class is not suitable for another class this year. Of course, many pages overlap.
 
 Please consider that all courses are in Italian language.
 
 Courses are created with [mdbook](https://github.com/rust-lang-nursery/mdBook), a nice static site generator written in Rust (a language that i really love ❤️).
 
 
-## First and second year
-### Computer Science
+## School year 2018-2019
+### First and second year
+#### Computer Science
 Link: [https://wbigger.github.io/book-programming/](https://wbigger.github.io/book-programming/)
 
 Start learning to code with Lightbot and Processing 3D. We will talk about problems, constraints, design, user stories, documentation, variables, flow control, objects and classes, 3D objects.  
 
-## Third year
-### Computer Science
+### Third year
+#### Computer Science
 Link: [https://wbigger.github.io/book-cs-3y/](https://wbigger.github.io/book-cs-3y/)
 
 A comparative introduction to software programming using Python and C++. A slightly philosophical approach is used to understand types and classes. The use case for this courses is a simple web app, using basic HTML5.
 
-### Computer Systems and Networking
+#### Computer Systems and Networking
 Link: [https://wbigger.github.io/book-arch-cpu/](https://wbigger.github.io/book-arch-cpu/)
 
 How is a computer made? this course covers the basics of CPU architecture and networking, using Raspberry PI, mobile phones, C language, terminal, gcc and assembly.
 
-### Technologies and design for computer systems
+#### Technologies and design for computer systems
 Link: [https://wbigger.github.io/book-tpsi-3y/](https://wbigger.github.io/book-tpsi-3y/)
 
 Operating systems, Raspberry PI, MPU vs CPU, Kernel, GNU utils, Scheduler, Memory
 
-## Forth year
-### Computer Systems and Networking
+### Forth year
+#### Computer Systems and Networking
 Link: [https://wbigger.github.io/book-4y-networks/](https://wbigger.github.io/book-4y-networks/)
 
 Here we talk about ISO/OSI level 2, 3 and 4. We try to understand how the networks and routing fundamentals using a historical approach.
 
-## Fifth year
-### Technologies and design for computer systems
+### Fifth year
+#### Technologies and design for computer systems
 Link: [https://wbigger.github.io/book-tpsi-5y/](https://wbigger.github.io/book-tpsi-5y)
 
 Deploy a web application in the cloud!
 
-## Other courses
-### HTML5
+### Other courses
+#### HTML5
 
 Link: [https://wbigger.github.io/book-html5/](https://wbigger.github.io/book-html5/)
 
@@ -78,14 +81,34 @@ How to implement and deploy effectively a web page? starting from the visual art
 
 Related courses: [Web Design](#web-design)
 
-### Web design
+#### Web design
 
 Link: [https://wbigger.github.io/book-web-app/](https://wbigger.github.io/book-web-app/)
 
 Software development history, Agile and Scrum, rules for a good brainstorming and project brief.
 
-### 2020-21 
+## 2020-21 
 Link: [https://wbigger.github.io/2021-stackedit/](https://wbigger.github.io/2021-stackedit/)
 
 Here the courses for the year 2020-21. I moved to StackEdit + GitHub Pages for these courses.
 
+## 2021-22
+
+### Computer Science, 1st year
+Link: [https://wbigger.github.io/book-cs-1y-2021/](https://wbigger.github.io/book-cs-1y-2021)
+
+
+### Technologies and design for computer systems, 3rd year
+Link: [https://wbigger.github.io/book-tpsi-3y](https://wbigger.github.io/book-tpsi-3y)
+
+
+### echnologies and design for computer systems, 4th year
+Link: [https://wbigger.github.io/book-tpsi-4y-2021/](https://wbigger.github.io/book-tpsi-4y-2021)
+
+
+### Computer Science, 5th year
+Link: [https://wbigger.github.io/book-cs-5y-2021/](https://wbigger.github.io/book-cs-5y-2021)
+
+
+### Business and project management, 5th year
+Link: [https://wbigger.github.io/book-business-5y-2021/](https://wbigger.github.io/book-business-5y-2021/)
