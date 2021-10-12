@@ -108,7 +108,3 @@ Link: [https://wbigger.github.io/book-tpsi-4y-2021/](https://wbigger.github.io/b
 
 ### Computer Science, 5th year
 Link: [https://wbigger.github.io/book-cs-5y-2021/](https://wbigger.github.io/book-cs-5y-2021)
-
-
-### Business and project management, 5th year
-Link: [https://wbigger.github.io/book-business-5y-2021/](https://wbigger.github.io/book-business-5y-2021/)
