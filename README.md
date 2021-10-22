@@ -102,7 +102,7 @@ Link: [https://wbigger.github.io/book-cs-1y-2021/](https://wbigger.github.io/boo
 Link: [https://wbigger.github.io/book-tpsi-3y](https://wbigger.github.io/book-tpsi-3y)
 
 
-### echnologies and design for computer systems, 4th year
+### Technologies and design for computer systems, 4th year
 Link: [https://wbigger.github.io/book-tpsi-4y-2021/](https://wbigger.github.io/book-tpsi-4y-2021)
 
 
