@@ -3,10 +3,12 @@ Here you can find my school projects and open-source courses about computer scie
 Primary target of these courses are students of Italian technical institute, computer science and telecommunications orientation; however, I hope they can be useful also for all the CS/IT students.
 
 ## School's official page on GitHub
-Here the official organization page of my school on GitHub: [IIS G. Marconi Civitavecchia](https://github.com/marconicivitavecchia). This organization is also connected with GitHub educate.
+Here the official organization page of my school on GitHub: [IIS G. Marconi Civitavecchia](https://github.com/marconicivitavecchia). This organization is also connected with GitHub Classroom.
 
 ## Research projects
 As teacher, I am following some research project with students and other teachers of my school:
+- [School of Athens VR](http://the-school-of-athens-vr.com/), an experience in VR that recreate the fresco by the Italian Renaissance artist Raphael, using Blender, Unreal and Meta Quest 2
+- [Stazione di Monitoraggio Ambientale](https://drive.google.com/file/d/19FdwQ868bjMo-5VYCzMeDcI56YT5ZGMe/view?usp=drive_link), a weather station using ESP32, LoraWAN, MicroPython, Node-RED, MongoDB Atlas, MQTT, a web page and an experience in VR visualizing the air condition written in Blender, Unity and using VRChat.
 - [Easy Talk](https://github.com/marconicivitavecchia/easy-talk), a technology to facilitate learning of social skills to help people with communication difficulties. Uses MS Azure Face API, Angular and Node.js.
 - [Domotics & VR](https://github.com/marconicivitavecchia/m4m-domotics), a prototype of a real home automation system, including electrical system, electronics, firmware, web server and a 3D environment that communicate in real time with the real environment. We used Node-RED, MQTT, Unity, Blender, Oculus Rift, Sonoff, ACME CM3. 
 
@@ -23,10 +25,11 @@ To support the student assessments, I created a [test suite](https://github.com/
 - create a profile of the student with strengths and weaknesses, to help the teacher developing effective strategies both for students and for the whole class
 - provide statistics both for single questions and students, with tips for the teacher to improve the future classwork
 
-Not all the above feature are currently implemented, but work is in progress and continuously updated.
-
-
 # Courses
+
+## 2023-24
+### Computer Science, 3rd year, memory management
+Link: [https://wbigger.github.io/book-3y-cs-memory/](https://wbigger.github.io/book-3y-cs-memory/)
 
 ## 2021-22
 
