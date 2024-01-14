@@ -29,7 +29,12 @@ To support the student assessments, I created a [test suite](https://github.com/
 
 ## 2023-24
 ### Computer Science, 3rd year, memory management
+
 Link: [https://wbigger.github.io/book-3y-cs-memory/](https://wbigger.github.io/book-3y-cs-memory/)
+
+### Technologies and design for computer systems, 5th year, Service Architecture
+
+Link: [https://wbigger.github.io/book-5y-tpsi-net-arch/](https://wbigger.github.io/book-5y-tpsi-net-arch/)
 
 ## 2021-22
 
