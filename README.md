@@ -31,23 +31,23 @@ To support the student assessments, I created a [test suite](https://github.com/
 
 ### Civic Education
 
-Sustainable Internet: [https://github.com/wbigger/book-sustainability](https://github.com/wbigger/book-sustainability)
+Sustainable Internet: [https://wbigger.github.io/book-sustainability/](https://wbigger.github.io/book-sustainability/)
 
 ### Computer Science, 3rd year
 
 Memory management: [https://wbigger.github.io/book-3y-cs-memory/](https://wbigger.github.io/book-3y-cs-memory/)
 
-Functions and Structs: [https://github.com/wbigger/book-3y-cs-funzioni](https://github.com/wbigger/book-3y-cs-funzioni)
+Functions and Structs: [https://wbigger.github.io/book-3y-cs-funzioni/](https://wbigger.github.io/book-3y-cs-funzioni/)
 
 ### Technologies and design for computer systems, 5th year, 
 
-IoT Scenario (Weather Station): [https://github.com/wbigger/book-5y-tpsi-weather-station](https://github.com/wbigger/book-5y-tpsi-weather-station)
+IoT Scenario (Weather Station): [https://wbigger.github.io/book-5y-tpsi-weather-station/](https://wbigger.github.io/book-5y-tpsi-weather-station/)
 
 Service Architecture: [https://wbigger.github.io/book-5y-tpsi-net-arch/](https://wbigger.github.io/book-5y-tpsi-net-arch/)
 
 ### 3D modeling and programming
 
-Publishing a 3D page on GitHub: [https://github.com/wbigger/book-curvatura-p5js-github-pages](https://github.com/wbigger/book-curvatura-p5js-github-pages)
+Publishing a 3D page on GitHub: [https://wbigger.github.io/book-curvatura-p5js-github-pages/](https://wbigger.github.io/book-curvatura-p5js-github-pages/)
 
 ## 2021-22
 
