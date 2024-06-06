@@ -58,8 +58,6 @@ To support the student assessments, I created a [test suite](https://github.com/
 
 - [Service Architecture](https://wbigger.github.io/book-5y-tpsi-net-arch/)
 
-- [User Centered Design](https://wbigger.github.io/book-5y-tpsi-net-arch/)
-
 ### 3D modeling and programming
 
 - [Publishing a 3D page on GitHub](https://wbigger.github.io/book-curvatura-p5js-github-pages/)
