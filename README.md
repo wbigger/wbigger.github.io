@@ -31,41 +31,52 @@ To support the student assessments, I created a [test suite](https://github.com/
 
 ### Civic Education
 
-Sustainable Internet: [https://wbigger.github.io/book-sustainability/](https://wbigger.github.io/book-sustainability/)
+- [Sustainable Internet](https://wbigger.github.io/book-sustainability/)
 
-### Computer Science, 3rd year
+### Computer Science
 
-Memory management: [https://wbigger.github.io/book-3y-cs-memory/](https://wbigger.github.io/book-3y-cs-memory/)
+3rd year
 
-Functions and Structs: [https://wbigger.github.io/book-3y-cs-funzioni/](https://wbigger.github.io/book-3y-cs-funzioni/)
+- [Memory management](https://wbigger.github.io/book-3y-cs-memory/)
+- [Functions and Structs](https://wbigger.github.io/book-3y-cs-funzioni/)
 
-### Technologies and design for computer systems, 5th year, 
+#### Computer Systems and Networking
 
-IoT Scenario (Weather Station): [https://wbigger.github.io/book-5y-tpsi-weather-station/](https://wbigger.github.io/book-5y-tpsi-weather-station/)
+3rd year
 
-Service Architecture: [https://wbigger.github.io/book-5y-tpsi-net-arch/](https://wbigger.github.io/book-5y-tpsi-net-arch/)
+- [CPU](https://github.com/wbigger/book-3y-network-cpu)
+
+4th year
+
+- [VLAN](https://wbigger.github.io/book-4y-network-vlan/)
+
+### Technologies and design for computer systems
+
+5th year
+
+- [IoT Scenario (Weather Station)](https://wbigger.github.io/book-5y-tpsi-weather-station/)
+
+- [Service Architecture](https://wbigger.github.io/book-5y-tpsi-net-arch/)
+
+- [User Centered Design](https://wbigger.github.io/book-5y-tpsi-net-arch/)
 
 ### 3D modeling and programming
 
-Publishing a 3D page on GitHub: [https://wbigger.github.io/book-curvatura-p5js-github-pages/](https://wbigger.github.io/book-curvatura-p5js-github-pages/)
+- [Publishing a 3D page on GitHub](https://wbigger.github.io/book-curvatura-p5js-github-pages/)
 
 ## 2021-22
 
 ### Computer Science, 1st year
 Link: [https://wbigger.github.io/book-cs-1y-2021/](https://wbigger.github.io/book-cs-1y-2021)
 
-
 ### Technologies and design for computer systems, 3rd year
 Link: [https://wbigger.github.io/book-tpsi-3y-2021](https://wbigger.github.io/book-tpsi-3y-2021)
-
 
 ### Technologies and design for computer systems, 4th year
 Link: [https://wbigger.github.io/book-tpsi-4y-2021/](https://wbigger.github.io/book-tpsi-4y-2021)
 
-
 ### Computer Science, 5th year
 Link: [https://wbigger.github.io/book-cs-5y-2021/](https://wbigger.github.io/book-cs-5y-2021)
-
 
 Below is a list of the material I wrote for my courses. I hope they can help other teachers. Feel free to use them as you want for what I created, and I specified attribution for images and other stuff that are not created by me.
 
