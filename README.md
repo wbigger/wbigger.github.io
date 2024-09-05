@@ -33,14 +33,14 @@ To support the student assessments, I created a [test suite](https://github.com/
 
 - [Sustainable Internet](https://wbigger.github.io/book-sustainability/)
 
-### Computer Science
+### Computer Science (Informatica)
 
 3rd year
 
 - [Memory management](https://wbigger.github.io/book-3y-cs-memory/)
 - [Functions and Structs](https://wbigger.github.io/book-3y-cs-funzioni/)
 
-#### Computer Systems and Networking
+### Computer Systems and Networking (Sistemi e Reti)
 
 3rd year
 
@@ -50,7 +50,7 @@ To support the student assessments, I created a [test suite](https://github.com/
 
 - [VLAN](https://wbigger.github.io/book-4y-network-vlan/)
 
-### Technologies and design for computer systems
+### Technologies and design for computer systems (TPSI)
 
 5th year
 
