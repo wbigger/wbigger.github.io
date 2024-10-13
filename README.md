@@ -27,6 +27,14 @@ To support the student assessments, I created a [test suite](https://github.com/
 
 # Courses
 
+## 2024-25
+
+### Computer Systems and Networking (Sistemi e Reti)
+
+5th year
+
+- [Exam: Regional ISP](https://wbigger.github.io/2024-book-5y-network-regional-isp/)
+
 ## 2023-24
 
 ### Civic Education
