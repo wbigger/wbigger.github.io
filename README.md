@@ -34,6 +34,8 @@ To support the student assessments, I created a [test suite](https://github.com/
 5th year
 
 - [Exam: Regional ISP](https://wbigger.github.io/2024-book-5y-network-regional-isp/)
+- [OpenVPN with AWS EC2](https://gist.github.com/wbigger/27109e07fcdad4d7fb167afc3b37d81c)
+- [Laboratorio di crittografia asimmetrica con CyberChef](https://gist.github.com/wbigger/806a71f30ed49093f8225924c54b84ad)
 
 ## 2023-24
 
